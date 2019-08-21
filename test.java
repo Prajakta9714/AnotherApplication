@@ -10,7 +10,7 @@ public class Test{
 
 
         System.out.println("bug changes 1");
-        
+        System.out.println("bug commit 2");
 
     }
 }
