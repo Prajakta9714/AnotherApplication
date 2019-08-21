@@ -10,6 +10,7 @@ public class Test{
         System.out.println("Making changes to master");
 
         System.out.println("Making changes to master master again");
+        System.out.println("Making changes to master master again 2");
 
     }
 }
